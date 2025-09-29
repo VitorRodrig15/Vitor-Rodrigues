@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Vitor Rodrigues!
 
-🎯 **Objetivo**: Construir carreira como **Analista de Dados Jr / Analista de TI Jr**, aplicando e desenvolvendo minhas habilidades em tecnologia.  
+🎯 **Objetivo**: Construir carreira como **Analista de Dados Jr**, aplicando e desenvolvendo minhas habilidades em tecnologia.  
 
 ---
 
