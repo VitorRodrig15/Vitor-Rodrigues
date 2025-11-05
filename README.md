@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 📚 Cursando **Ciência da Computação** – 1º semestre no Centro Universitário Unibta  
+- 📚 Cursando **Ciência da Computação** – Centro Universitário Unibta  
 - 🔎 Foco em **SQL, Python e Power BI**  
 - 🖥️ Conhecimentos em **Linux avançado, hardware e software, redes e segurança da informação**  
 - 📊 Experiência com planilhas e análise de dados administrativos  
