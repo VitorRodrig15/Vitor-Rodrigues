@@ -40,10 +40,11 @@
 - 📌 Dashboards interativos no Power BI
 - 📌 Consultas avançadas e criação de bancos em SQL
 - 📌 Análise de dados com Python (pandas, matplotlib, seaborn)
+- 📌 Programação orientada a objetos com Java
 - 📌 Versionamento de código com Git e GitHub
 - 📌 Desenvolvimento web com HTML e CSS
 - 📌 Containerização e deploy com Docker
-- 📌 Criação de APIs e aplicações em Pytho
+- 📌 Criação de APIs e aplicações em Python
 
 
 ---
