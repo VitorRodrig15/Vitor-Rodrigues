@@ -33,17 +33,24 @@
 ---
 
 ## 📈 O que estou aprendendo
-- 📌 Dashboards interativos no **Power BI**  
-- 📌 Consultas avançadas em **SQL**  
-- 📌 Análise de dados com **Python (pandas, matplotlib, seaborn)**  
-- 📌 Versionamento de código com **Git e GitHub**  
+- 📌 Dashboards interativos no Power BI
+- 📌 Consultas avançadas e criação de bancos em SQL
+- 📌 Análise de dados com Python (pandas, matplotlib, seaborn)
+- 📌 Versionamento de código com Git e GitHub
+- 📌 Desenvolvimento web com HTML e CSS
+- 📌 Containerização e deploy com Docker
+- 📌 Criação de APIs e aplicações em Pytho
+
 
 ---
 
-## 📂 Projetos em destaque *(em breve)*
-- 📊 **Análise de Vendas com Power BI** – Dashboard para visualizar KPIs e tendências  
-- 🐍 **Scripts em Python para análise de dados**  
-- 🗄️ **Consultas SQL para estudos e prática**  
+## 📂 Projetos em destaque
+- 📊 Análise de Vendas com Power BI – Dashboard para visualizar KPIs e tendências
+- 🐍 Scripts em Python para análise de dados
+- 🐍 Criação de APIs e aplicações em Python
+- 🗄️ Consultas SQL para estudos e prática
+- 🌐 Landing Page em HTML/CSS – Projeto front-end responsivo
+- 🐳 Ambiente Docker para aplicações Python – Containerização e deploy simplificad
 
 ---
 
