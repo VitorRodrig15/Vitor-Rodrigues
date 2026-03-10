@@ -1,15 +1,19 @@
 # 👋 Olá, eu sou Vitor Rodrigues!
 
-🎯 **Objetivo**: Iniciar minha carreira como **Analista de Dados Jr**, desenvolvendo habilidades em análise de dados, infraestrutura e programação.
+🎯 **Objetivo**: Iniciar minha carreira como **Engenheiro Dados Jr e FullStack**, desenvolvendo habilidades em análise de dados, infraestrutura e programação.
 
 ---
 
 ## 🚀 Sobre mim
 - 📚 Cursando **Ciência da Computação** – Centro Universitário Unibta  
-- 🔎 Foco em **SQL, Python e Power BI**  
-- 🖥️ Conhecimentos em **Linux avançado, hardware e software, redes e segurança da informação**  
-- 📊 Experiência com planilhas e análise de dados administrativos  
-- 🌍 Inglês intermediário  
+- 🔎 Foco em **SQL, Python, JAVA, HTML, CSS e Power BI**  
+- 🖥️ Conhecimentos em **Linux avançado, hardware e software, redes e segurança da informação**
+- 🐍 Experiência prática em Python para análise de dados, criação de APIs e aplicações
+- 🗄️ Domínio em SQL para consultas avançadas, modelagem e manipulação de bancos de dados
+- 📊 Experiência com planilhas e análise de dados administrativos, criação de API para importação de dados
+- 🌍 Inglês intermediário
+- 💡 Interesse em unir análise de dados, desenvolvimento web e infraestrutura para criar soluções completas e escaláveis
+
 
 ---
 
