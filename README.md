@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Vitor Rodrigues!
+# 👋 Olá, eu sou Vitor Rodrigues e Bem-Vindo ao meu GIT!
 
-🎯 **Objetivo**: Iniciar minha carreira como **Engenheiro Dados Jr e FullStack**, desenvolvendo habilidades em análise de dados, infraestrutura e programação.
+🎯 **Objetivo**: Desenvolver ainda mais minha carreira como **Engenheiro Dados Jr e FullStack**, desenvolvendo habilidades em análise de dados, infraestrutura e programação.
 
 ---
 
