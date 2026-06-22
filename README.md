@@ -40,11 +40,11 @@
 - 📌 Dashboards interativos no Power BI
 - 📌 Consultas avançadas e criação de bancos em SQL
 - 📌 Análise de dados com Python (pandas, matplotlib, seaborn)
-- 📌 Programação orientada a objetos com Java
+- 📌 Programação orientada a objetos com Java, PHP e Python
 - 📌 Versionamento de código com Git e GitHub
-- 📌 Desenvolvimento web com HTML e CSS
+- 📌 Desenvolvimento web com HTML, JS e CSS
 - 📌 Containerização e deploy com Docker
-- 📌 Criação de APIs e aplicações em Python
+- 📌 Criação de APIs e aplicações em Python e PHP
 
 
 ---
@@ -53,8 +53,8 @@
 - 📊 Análise de Vendas com Power BI – Dashboard para visualizar KPIs e tendências
 - 🐍 Scripts em Python para análise de dados
 - 🐍 Criação de APIs e aplicações em Python
-- 🗄️ Consultas SQL para estudos e prática
-- 🌐 Landing Page em HTML/CSS – Projeto front-end responsivo
+- 🗄️ Criações de Banco de dados em SQL e integrações em Sites e APIs
+- 🌐 Desenvolvimento WEB com PHP/HTML/CSS/JS – Projetos de sites FullStack
 - 🐳 Ambiente Docker para aplicações Python – Containerização e deploy simplificad
 
 ---
