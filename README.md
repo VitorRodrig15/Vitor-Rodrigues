@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mim
 - 📚 Cursando **Ciência da Computação** – Centro Universitário Unibta  
-- 🔎 Foco em **SQL, Python, JAVA, HTML, CSS e Power BI**  
+- 🔎 Foco em **SQL, Python, PHP, JAVA, HTML, CSS , JS e Power BI**  
 - 🖥️ Conhecimentos em **Linux avançado, hardware e software, redes e segurança da informação**
-- 🐍 Experiência prática em Python para análise de dados, criação de APIs e aplicações
+- 🐍 Experiência prática em Python e PHP para análise e engenharia de dados, criação de APIs e aplicações, e Desenvolvimento WEB 
 - 🗄️ Domínio em SQL para consultas avançadas, modelagem e manipulação de bancos de dados
 - 📊 Experiência com planilhas e análise de dados administrativos, criação de API para importação de dados
 - 🌍 Inglês intermediário
