@@ -94,19 +94,18 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, arquite
 
 ---
 
-### 📊 Linguagens Mais Usadas
+### 📊 Dashboard de Tecnologias & Linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRodrig15&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Linguagens Mais Usadas" width="400" />
+  <!-- Gráfico em Donut com porcentagem exata de linguagens -->
+  <img src="https://metrics.lecoq.io/VitorRodrig15?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.details=percentage&config.timezone=America%2FSao_Paulo" alt="Estatísticas de Linguagens" width="450" />
 </p>
 
----
-
-
-### 📈 Distribuição de Tecnologias
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstme-anurag-hazras-projects.vercel.app/api/top-langs/?username=VitorRodrig15&layout=donut&theme=tokyonight&hide_border=true" alt="Gráfico de Tecnologias" width="380" />
+  <!-- Estatísticas Gerais e Nível do Perfil -->
+  <img src="https://github-readme-stats-git-masterrstme-anurag-hazras-projects.vercel.app/api?username=VitorRodrig15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dashboard do Perfil" width="450" />
 </p>
 
 ---
