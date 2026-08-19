@@ -94,14 +94,23 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, arquite
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Linguagens Mais Usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorRodrig15&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRodrig15&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens Mais Usadas" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRodrig15&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Linguagens Mais Usadas" width="400" />
 </p>
 
 ---
+
+
+### 📈 Distribuição de Tecnologias
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstme-anurag-hazras-projects.vercel.app/api/top-langs/?username=VitorRodrig15&layout=donut&theme=tokyonight&hide_border=true" alt="Gráfico de Tecnologias" width="380" />
+</p>
+
+---
+
 
 ## 📫 Onde me encontrar
 - 📧 Email: **vitor_rodrigues_oliveira@outlook.com**  
