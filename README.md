@@ -99,9 +99,6 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, arquite
 <p align="center">
   <!-- Gráfico em Rosca das Linguagens Mais Usadas -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorRodrig15&layout=donut&theme=tokyonight&hide_border=true&count_private=true" alt="Linguagens em Rosca" width="48%" />
-  <!-- Gráfico de Sequência de Atividade (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorRodrig15&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
 
 <br>
 
